@@ -41,7 +41,7 @@ The integrated ML model detects smoke and gas effectively based on key environme
 ## 🔒 SSL Certification  
 The Smart Fire Detection System ensures secure communication with SSL certification. Below is a screenshot verifying the SSL certification:  
 
-![SSL Certified Screenshot](/pwa/images/ssl-certification.jpeg)  
+![SSL Certified Screenshot](images/SSL Certif.png)  
 
 ## Collaborators
 <a href="[https://https://github.com/BacemAhmed](https://github.com/bacemah)">  
