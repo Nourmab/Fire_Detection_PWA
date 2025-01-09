@@ -46,5 +46,5 @@ The Smart Fire Detection System ensures secure communication with SSL certificat
 ![SSL Certified Screenshot](/pwa/images/ssl-certification.jpeg)  
 
 ## Collaborators
-<a href="https://https://github.com/BacemAhmed">  
+<a href="[https://https://github.com/BacemAhmed](https://github.com/bacemah)">  
 </a>
