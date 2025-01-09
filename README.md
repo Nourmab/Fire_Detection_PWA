@@ -35,9 +35,7 @@
 ![Dashboard Screenshot](/pwa/images/dashboard.png)  
 
 ### Fire Detection Model  
-The integrated ML model detects smoke and gas effectively based on key environmental features. Below is a screenshot of the fire detection interface:  
-![Fire Detection Screenshot](/pwa/images/fire-detection.png)  
-
+The integrated ML model detects smoke and gas effectively based on key environmental features. 
 ---
 
 ## 🔒 SSL Certification  
